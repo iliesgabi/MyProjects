@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;defaultpackage.ProgramPanelExpert.java&apos; to &apos;ProgramPanelMedic.java&apos;&#x0D;&#x0A;- Original project: &apos;BDPROJECT&apos;&#x0D;&#x0A;- Original element: &apos;defaultpackage.ProgramPanelExpert.java&apos;&#x0D;&#x0A;- Renamed element: &apos;defaultpackage.ProgramPanelMedic.java&apos;" description="Rename compilation unit &apos;ProgramPanelExpert.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;defaultpackage{ProgramPanelExpert.java" name="ProgramPanelMedic.java" references="false" stamp="1578748357200" version="1.0"/>
+</session>

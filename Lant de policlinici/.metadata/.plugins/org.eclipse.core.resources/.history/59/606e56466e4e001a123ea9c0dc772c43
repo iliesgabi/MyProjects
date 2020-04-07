@@ -1,0 +1,37 @@
+package garm;
+
+class House {
+
+    protected String material = "bricks";
+
+    
+
+    void show() {
+
+        System.out.print(material);
+
+    }
+
+} 
+
+    
+
+class Hotel extends House {
+
+    protected String material = "concrete";
+
+}
+
+
+
+class Main {
+
+    public static void main(String[] args) {
+
+        new Hotel().show();
+
+        new House().show();
+
+    }
+
+}

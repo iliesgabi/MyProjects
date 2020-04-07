@@ -1,0 +1,37 @@
+package garm;
+
+class Account {
+
+    static int balance;
+
+    
+
+    void increment() {
+
+        System.out.print(++balance + " ");
+
+    }
+
+};
+
+
+
+class Main {
+
+    public static void main(String[] args) {
+
+        Account a = new Account();
+
+        Account b = new Account();
+
+        a.increment();
+
+        b.increment();
+
+        b.balance = 10;
+
+        a.increment();
+
+    }
+
+}

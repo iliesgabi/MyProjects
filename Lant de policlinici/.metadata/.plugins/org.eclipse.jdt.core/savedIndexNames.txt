@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+C:\Users\catal\Desktop\Publiclinica-master\.metadata\.plugins\org.eclipse.jdt.core
+426701354.index
+3184021872.index
+1067094681.index
+2425034924.index
+4197432811.index
+1069399562.index

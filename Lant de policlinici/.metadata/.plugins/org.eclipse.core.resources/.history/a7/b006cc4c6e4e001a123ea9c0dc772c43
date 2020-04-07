@@ -1,0 +1,33 @@
+class Person {
+
+    Person() { 
+
+        System.out.print("Person\'s Constructor "); 
+
+    }
+
+}
+
+
+
+class Student extends Person {
+
+    Student() { 
+
+        System.out.print("Student\'s Constructor "); 
+
+    }
+
+}
+
+
+
+class Main {
+
+    public static void main(String[] args) {
+
+        new Student();
+
+    }
+
+}
