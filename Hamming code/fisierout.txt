@@ -1,0 +1,22 @@
+numarul citit este 1010 
+incorect
+eroare la bitul 2
+corect:  
+00 
+ 
+numarul citit este 011 
+incorect
+eroare la bitul 1
+corect: 111 
+numarul citit este 0110011 
+corect 
+numarul citit este 1110011 
+incorect
+eroare la bitul 1
+corect: 0110011 
+numarul citit este 1111111111111111111111111111111 
+corect 
+numarul citit este 1111111111111111111111111111110 
+incorect
+eroare la bitul 31
+corect: 1111111111111111111111111111111 
